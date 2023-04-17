@@ -12,10 +12,6 @@ public class Main {
             System.out.print(a[i]);
         }
     }
-    
-    
-    
-
     private static int multiply(int[] a, int len, int i) {
         int carry = 0;
         for (int j = 0; j < len; j++) {
